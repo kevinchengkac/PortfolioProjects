@@ -10,8 +10,8 @@ Where location Like '%States%'
 Order by 1,2;
 
 
---Shows each country with the highest infection count to date, 
-as well as amount of infected population as a percentage
+/**Shows each country with the highest infection count to date, 
+as well as amount of infected population as a percentage**/
 Select Location, Population, MAX(total_cases) as HighestInfectionCount, MAX((total_cases/population))*100 as InfectedPopulationPercentage
 From PortfolioProject..CovidDeaths$
 Group by Location, Population
