@@ -12,7 +12,7 @@ Please take a look if you're interested!
 This project was served as a tutorial project to get my feet wet with the tools I use.
 Special thanks to Alex the Analyst for the tutorial. His channel can be found here: https://www.youtube.com/c/alextheanalyst
 
-My report for this project can be found here: https://medium.com/@kevincheng.kac/covid-19-worldwide-cases-a-detailed-look-2f9f7a932ed7
+This report can found here: https://medium.com/@kevincheng.kac/covid-19-worldwide-cases-a-detailed-look-2f9f7a932ed7
 
 ## Project 1 - A Look into the Available Lots of Pinellas County
 This project's objective was to find what houses and lots are available in Pinellas County.
@@ -35,4 +35,4 @@ My report for this project can be found here: https://docs.github.com/en/get-sta
 ## Mini-Project 1 - Pages Upon Pages: A Look at Amazon’s Top 100 Books from 2009–2021
 As a way to get back into the swing of things, I made this mini project based off my recent love for books. I compared the Top 100 lists of 2009 - 2021 and identified trends in certain years.
 
-My report for this project can be found here: https://medium.com/@kevincheng.kac/pages-upon-pages-a-look-at-amazons-top-100-books-from-2009-2021-4cc554456168
+My take on these book trends can be found here: https://medium.com/@kevincheng.kac/pages-upon-pages-a-look-at-amazons-top-100-books-from-2009-2021-4cc554456168
