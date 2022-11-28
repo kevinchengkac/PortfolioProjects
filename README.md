@@ -8,6 +8,6 @@ LinkedIn: https://www.linkedin.com/in/kevin-cheng-7695b7226/recent-activity/post
 
 Please take a look if you're interested!
 
-#Project 0 - COVID-19 Worldwide Cases: A Detailed Look
+# Project 0 - COVID-19 Worldwide Cases: A Detailed Look
 This project.
 
