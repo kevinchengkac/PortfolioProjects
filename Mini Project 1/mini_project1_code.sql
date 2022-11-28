@@ -25,7 +25,7 @@ Burn After Writing
 Catching Fire (Hunger Games)
 Freedom
 Little Blue Truck board book
-Oh, the Places You'll Go!  
+Oh, the Places You'll Go!Â Â 
 The Hunger Games (Book 1)
 **/
 SELECT DISTINCT title FROM PortfolioProjects3..best_selling_books_2009_2021
@@ -45,7 +45,7 @@ UPDATE PortfolioProjects3..best_selling_books_2009_2021 SET title = 'Burn After 
 UPDATE PortfolioProjects3..best_selling_books_2009_2021 SET title = 'Catching Fire (The Hunger Games)' WHERE title='Catching Fire (Hunger Games)'
 UPDATE PortfolioProjects3..best_selling_books_2009_2021 SET title = 'Freedom: A Novel' WHERE title='Freedom'
 UPDATE PortfolioProjects3..best_selling_books_2009_2021 SET title = 'Little Blue Truck' WHERE title='Little Blue Truck board book'
-UPDATE PortfolioProjects3..best_selling_books_2009_2021 SET title = 'Oh, the Places You''ll Go!' WHERE title='Oh, the Places You''ll Go! �'
+UPDATE PortfolioProjects3..best_selling_books_2009_2021 SET title = 'Oh, the Places You''ll Go!' WHERE title='Oh, the Places You''ll Go!Â Â'
 UPDATE PortfolioProjects3..best_selling_books_2009_2021 SET title = 'The Hunger Games' WHERE title='The Hunger Games (Book 1)'
 
 --Testing out updates (ex: J.K. Rowlings and Freedom: A Novel)
