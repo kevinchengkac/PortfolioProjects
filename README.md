@@ -4,6 +4,7 @@ Here are my SQL projects I've done at home. All of these projects were done to e
 I have written analysis reports for these projects. They can be found at the following links:
 
 Medium: https://medium.com/@kevincheng.kac
+
 LinkedIn: https://www.linkedin.com/in/kevin-cheng-7695b7226/recent-activity/posts/
 
 Please take a look if you're interested!
